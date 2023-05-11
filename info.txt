@@ -4,7 +4,7 @@
     "Author": "Pouek_",
     "Description": "Instantly closes all notifications that pop up so you don't have to",
     "ModVersion": 1,
-    "GameVersion": 2.048,
+    "GameVersion": 2.052,
     "Date": "01/02/2023",
     "Dependencies": [],
     "Disabled": 1,
